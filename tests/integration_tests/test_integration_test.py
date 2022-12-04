@@ -1,5 +1,6 @@
 import json
 import httpx
+import time
 import unittest
 from app.configs import third_party_a
 from app.models.input import Input
@@ -48,7 +49,9 @@ class TestIntegration(unittest.TestCase):
 
     def test_all_cases(self):
         for i in TEST_CASES:
-            result = self.call_api(f"http://127.0.0.1:8000/v1/company/{i['jurisdiction_code']}/{i['company_number']}")
+            start_time = time.time()
+            result = self.call_api(f"http://app:8000/v1/company/{i['jurisdiction_code']}/{i['company_number']}")
+            print("--- %s seconds ---" % round(time.time() - start_time, 2))
             expected_result = self._open_file(f"tests/integration_tests/expected_results/{i['jurisdiction_code']}_{i['company_number']}.json")
             print(i)
             print("-----Result------")
