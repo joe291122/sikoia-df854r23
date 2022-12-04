@@ -8,7 +8,6 @@ FROM python:${RUNTIME_VERSION}-alpine${DISTRO_VERSION} AS python-alpine
 
 WORKDIR /code
 
-# Copy requirements
 COPY requirements.txt requirements.txt
 
 RUN python -m pip install --upgrade pip && python -m pip install -r requirements.txt --target /code/
