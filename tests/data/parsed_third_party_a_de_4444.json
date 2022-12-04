@@ -1,0 +1,66 @@
+{
+    "company_number": "4444",
+    "company_name": "The Simpsons GmbH",
+    "jurisdiction_code": "de",
+    "company_type": "GmbH",
+    "status": "Inactive",
+    "date_established": {
+        "year": 2003,
+        "month": 6,
+        "day": 11
+    },
+    "date_dissolved": {
+        "year": 2006,
+        "month": 8,
+        "day": 22
+    },
+    "official_address": {
+        "street": "1 Hellriegelstra\u00dfe",
+        "city": "Berlin",
+        "country": "Germany",
+        "postcode": "14195"
+    },
+    "officers": [
+        {
+            "first_name": null,
+            "middlenames": null,
+            "last_name": null,
+            "name": "Kwik-E-Mart Plc",
+            "date_from": {
+                "year": 2004,
+                "month": 7,
+                "day": 16
+            },
+            "date_to": {
+                "year": 2005,
+                "month": 12,
+                "day": 19
+            },
+            "role": "Director",
+            "date_of_birth": null,
+            "nationality": null,
+            "country": null
+        },
+        {
+            "first_name": "Homer",
+            "middlenames": "Jay",
+            "last_name": "Simpson",
+            "name": null,
+            "date_from": {
+                "year": 2005,
+                "month": 9,
+                "day": 24
+            },
+            "date_to": null,
+            "role": "Director",
+            "date_of_birth": {
+                "year": 1977,
+                "month": 8,
+                "day": null
+            },
+            "nationality": null,
+            "country": null
+        }
+    ],
+    "owners": []
+}

@@ -1,0 +1,62 @@
+{
+    "company_number": "3333",
+    "company_name": "Game of Thrones GmbH",
+    "jurisdiction_code": "de",
+    "company_type": "GmbH",
+    "status": "Active",
+    "date_established": {
+        "year": 2011,
+        "month": 1,
+        "day": 22
+    },
+    "date_dissolved": null,
+    "official_address": {
+        "street": "21a Andreasstra\u00dfe",
+        "city": "Berlin",
+        "country": "Germany",
+        "postcode": "10243"
+    },
+    "officers": [
+        {
+            "first_name": "Tyrion",
+            "middlenames": null,
+            "last_name": "Lannister",
+            "name": null,
+            "date_from": {
+                "year": 2014,
+                "month": 11,
+                "day": 13
+            },
+            "date_to": null,
+            "role": "Director",
+            "date_of_birth": {
+                "year": 1980,
+                "month": 4,
+                "day": null
+            },
+            "nationality": null,
+            "country": null
+        },
+        {
+            "first_name": null,
+            "middlenames": null,
+            "last_name": null,
+            "name": "Iron Bank of Braavos Ltd",
+            "date_from": {
+                "year": 2012,
+                "month": 7,
+                "day": 14
+            },
+            "date_to": {
+                "year": 2019,
+                "month": 6,
+                "day": 21
+            },
+            "role": "Secretary",
+            "date_of_birth": null,
+            "nationality": null,
+            "country": null
+        }
+    ],
+    "owners": []
+}

@@ -1,0 +1,88 @@
+{
+    "company_number": "4444",
+    "company_name": "The Simpsons GmbH",
+    "jurisdiction_code": "de",
+    "date_established": {
+        "year": 2003,
+        "month": 6,
+        "day": 11
+    },
+    "date_dissolved": {
+        "year": 2006,
+        "month": 8,
+        "day": 22
+    },
+    "official_address": {
+        "street": "1 Hellriegelstra\u00dfe",
+        "city": "Berlin",
+        "country": "Germany",
+        "postcode": "14195"
+    },
+    "activities": null,
+    "officers": [
+        {
+            "name": "Homer Jay Simpson",
+            "date_from": {
+                "year": 2005,
+                "month": 9,
+                "day": 24
+            },
+            "date_to": null,
+            "role": "Director",
+            "date_of_birth": {
+                "year": 1977,
+                "month": 8,
+                "day": 17
+            },
+            "nationality": "American"
+        },
+        {
+            "name": "Kwik-E-Mart Plc",
+            "date_from": {
+                "year": 2004,
+                "month": 7,
+                "day": 16
+            },
+            "date_to": {
+                "year": 2005,
+                "month": 12,
+                "day": 19
+            },
+            "role": "Director",
+            "country": "United States"
+        }
+    ],
+    "owners": [
+        {
+            "name": "Montgomery Burns",
+            "date_from": {
+                "year": 2004,
+                "month": 6,
+                "day": 8
+            },
+            "date_to": null,
+            "role": "Owner",
+            "shares_held": 100.0,
+            "ownership_type": "Shareholder",
+            "nationality": "American",
+            "date_of_birth": {
+                "year": 1900,
+                "month": 1,
+                "day": 1
+            }
+        },
+        {
+            "name": "Springfield Nuclear Power Plant Inc",
+            "date_from": {
+                "year": 2003,
+                "month": 8,
+                "day": 19
+            },
+            "date_to": null,
+            "role": "Owner",
+            "country": "United States",
+            "shares_held": null,
+            "ownership_type": "Shareholder"
+        }
+    ]
+}

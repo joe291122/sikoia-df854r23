@@ -1,0 +1,54 @@
+{
+    "companyNumber": "5555",
+    "companyName": "How I Met Your Mother N.V.",
+    "country": "nl",
+    "dateFrom": null,
+    "dateTo": null,
+    "address": "Eerste van Swindenstraat 40, Amsterdam, Netherlands, 1093 GE",
+    "activities": [
+        {
+            "activityCode": 12,
+            "activityDescription": "Retail"
+        },
+        {
+            "activityCode": 7,
+            "activityDescription": "E-Commerce"
+        }
+    ],
+    "relatedPersons": [
+        {
+            "name": "Ted Mosby",
+            "dateFrom": "11/08/1974",
+            "dateTo": "11/12/1988",
+            "type": "Director",
+            "birthDate": "22/06/1955",
+            "nationality": "American"
+        },
+        {
+            "name": "Robin Scherbatsky",
+            "dateFrom": "11/12/2011",
+            "dateTo": null,
+            "type": "Owner",
+            "ownership": "60.0",
+            "birthDate": "22/10/1942",
+            "nationality": "Canadian"
+        }
+    ],
+    "relatedCompanies": [
+        {
+            "name": "MacLaren's Pub Inc",
+            "dateFrom": "17/09/1999",
+            "dateTo": null,
+            "type": "Director",
+            "country": "United States"
+        },
+        {
+            "name": "Goliath National Bank Inc",
+            "dateFrom": "24/11/1977",
+            "dateTo": null,
+            "type": "Owner",
+            "ownership": "40.0",
+            "country": "Italy"
+        }
+    ]
+}

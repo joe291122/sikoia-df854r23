@@ -1,0 +1,45 @@
+{
+    "companyNumber": "4444",
+    "companyName": "The Simpsons GmbH",
+    "country": "de",
+    "dateFrom": "11/06/2003",
+    "dateTo": "22/08/2006",
+    "address": "1 Hellriegelstraße, Berlin, Germany, 14195",
+    "activities": null,
+    "relatedPersons": [
+        {
+            "name": "Homer Jay Simpson",
+            "dateFrom": "24/09/2005",
+            "dateTo": null,
+            "type": "Director",
+            "birthDate": "17/08/1977",
+            "nationality": "American"
+        },
+        {
+            "name": "Montgomery Burns",
+            "dateFrom": "08/06/2004",
+            "dateTo": null,
+            "type": "Owner",
+            "ownership": "100.0",
+            "birthDate": "01/01/1900",
+            "nationality": "American"
+        }
+    ],
+    "relatedCompanies": [
+        {
+            "name": "Kwik-E-Mart Plc",
+            "dateFrom": "16/07/2004",
+            "dateTo": "19/12/2005",
+            "type": "Director",
+            "country": "United States"
+        },
+        {
+            "name": "Springfield Nuclear Power Plant Inc",
+            "dateFrom": "19/08/2003",
+            "dateTo": null,
+            "type": "Owner",
+            "ownership": null,
+            "country": "United States"
+        }
+    ]
+}

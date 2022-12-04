@@ -1,0 +1,87 @@
+{
+    "company_number": "3333",
+    "company_name": "Game of Thrones GmbH",
+    "jurisdiction_code": "de",
+    "company_type": "GmbH",
+    "status": "Active",
+    "date_established": {
+        "year": 2011,
+        "month": 1,
+        "day": 22
+    },
+    "official_address": {
+        "street": "21a Andreasstra\u00dfe",
+        "city": "Berlin",
+        "country": "Germany",
+        "postcode": "10243"
+    },
+    "activities": [
+        {
+            "activity_code": 2244,
+            "activity_description": "Software"
+        },
+        {
+            "activity_code": 2266,
+            "activity_description": "Technology"
+        }
+    ],
+    "officers": [
+        {
+            "first_name": "Tyrion",
+            "last_name": "Lannister",
+            "date_from": {
+                "year": 2014,
+                "month": 11,
+                "day": 13
+            },
+            "role": "Director",
+            "date_of_birth": {
+                "year": 1980,
+                "month": 4
+            }
+        },
+        {
+            "name": "Iron Bank of Braavos Ltd",
+            "date_from": {
+                "year": 2012,
+                "month": 7,
+                "day": 14
+            },
+            "date_to": {
+                "year": 2019,
+                "month": 6,
+                "day": 21
+            },
+            "role": "Secretary"
+        }
+    ],
+    "owners": [
+        {
+            "name": "Sansa Stark",
+            "date_from": {
+                "year": 2012,
+                "month": 9,
+                "day": 5
+            },
+            "shares_held": 40.0,
+            "ownership_type": "Shareholder",
+            "date_of_birth": {
+                "year": 1982,
+                "month": 4,
+                "day": 12
+            },
+            "nationality": "Westerosi"
+        },
+        {
+            "name": "The Golden Company Plc",
+            "date_from": {
+                "year": 2014,
+                "month": 11,
+                "day": 7
+            },
+            "country": "Pentos",
+            "shares_held": 60.0,
+            "ownership_type": "Shareholder"
+        }
+    ]
+}

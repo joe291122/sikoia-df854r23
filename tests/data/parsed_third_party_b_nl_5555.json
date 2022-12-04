@@ -1,0 +1,89 @@
+{
+    "company_number": "5555",
+    "company_name": "How I Met Your Mother N.V.",
+    "jurisdiction_code": "nl",
+    "date_established": null,
+    "date_dissolved": null,
+    "official_address": {
+        "street": "Eerste van Swindenstraat 40",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "postcode": "1093 GE"
+    },
+    "activities": [
+        {
+            "activity_code": 12,
+            "activity_description": "Retail"
+        },
+        {
+            "activity_code": 7,
+            "activity_description": "E-Commerce"
+        }
+    ],
+    "officers": [
+        {
+            "name": "Ted Mosby",
+            "date_from": {
+                "year": 1974,
+                "month": 8,
+                "day": 11
+            },
+            "date_to": {
+                "year": 1988,
+                "month": 12,
+                "day": 11
+            },
+            "role": "Director",
+            "date_of_birth": {
+                "year": 1955,
+                "month": 6,
+                "day": 22
+            },
+            "nationality": "American"
+        },
+        {
+            "name": "MacLaren's Pub Inc",
+            "date_from": {
+                "year": 1999,
+                "month": 9,
+                "day": 17
+            },
+            "date_to": null,
+            "role": "Director",
+            "country": "United States"
+        }
+    ],
+    "owners": [
+        {
+            "name": "Robin Scherbatsky",
+            "date_from": {
+                "year": 2011,
+                "month": 12,
+                "day": 11
+            },
+            "date_to": null,
+            "role": "Owner",
+            "shares_held": 60.0,
+            "ownership_type": "Shareholder",
+            "date_of_birth":  {
+                "year": 1942,
+                "month": 10,
+                "day": 22
+            },
+            "nationality": "Canadian"
+        },
+        {
+            "name": "Goliath National Bank Inc",
+            "date_from": {
+                "year": 1977,
+                "month": 11,
+                "day": 24
+            },
+            "date_to": null,
+            "role": "Owner",
+            "country": "Italy",
+            "shares_held": 40.0,
+            "ownership_type": "Shareholder"
+        }
+    ]
+}

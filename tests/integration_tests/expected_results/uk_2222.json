@@ -1,0 +1,90 @@
+{
+    "company_number": "2222",
+    "company_name": "The Office Plc",
+    "jurisdiction_code": "uk",
+    "company_type": "Plc",
+    "status": "Inactive",
+    "date_established": {
+        "year": 2000,
+        "month": 9,
+        "day": 16
+    },
+    "date_dissolved": {
+        "year": 2020,
+        "month": 6,
+        "day": 3
+    },
+    "official_address": {
+        "street": "68 Kingsway",
+        "city": "London",
+        "country": "United Kingdom",
+        "postcode": "SW38 9TV"
+    },
+    "officers": [
+        {
+            "first_name": "Michael",
+            "middlenames": "Gary",
+            "last_name": "Scott",
+            "date_from": {
+                "year": 2000,
+                "month": 9,
+                "day": 16
+            },
+            "date_to": {
+                "year": 2020,
+                "month": 6,
+                "day": 3
+            },
+            "role": "Managing Director",
+            "date_of_birth": {
+                "year": 1988,
+                "month": 9
+            }
+        },
+        {
+            "first_name": "Jim",
+            "last_name": "Halpert",
+            "date_from": {
+                "year": 2008,
+                "month": 4,
+                "day": 18
+            },
+            "date_to": {
+                "year": 2015,
+                "month": 8,
+                "day": 15
+            },
+            "role": "Treasurer",
+            "date_of_birth": {
+                "year": 1990,
+                "month": 10
+            }
+        }
+    ],
+    "owners": [
+        {
+            "name": "Dunder Mifflin Paper Company, Inc.",
+            "date_from": {
+                "year": 2005,
+                "month": 12,
+                "day": 20
+            },
+            "ownership_type": "Shareholder",
+            "shares_held": 100.0
+        },
+        {
+            "first_name": "Oscar",
+            "last_name": "Martinez",
+            "date_from": {
+                "year": 2012,
+                "month": 8,
+                "day": 19
+            },
+            "ownership_type": "Other",
+            "date_of_birth": {
+                "year": 1972,
+                "month": 5
+            }
+        }
+    ]
+}

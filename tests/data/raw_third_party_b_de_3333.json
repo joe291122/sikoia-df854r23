@@ -1,0 +1,54 @@
+{
+    "companyNumber": "3333",
+    "companyName": "Game of Thrones GmbH",
+    "country": "de",
+    "dateFrom": "22/01/2011",
+    "dateTo": null,
+    "address": "21a AndreasstraÃŸe, Berlin, Germany, 10243",
+    "activities": [
+        {
+            "activityCode": 2244,
+            "activityDescription": "Software"
+        },
+        {
+            "activityCode": 2266,
+            "activityDescription": "Technology"
+        }
+    ],
+    "relatedPersons": [
+        {
+            "name": "Tyrion Lannister",
+            "dateFrom": "13/11/2014",
+            "dateTo": null,
+            "type": "Director",
+            "birthDate": "12/04/1982",
+            "nationality": "Westerosi"
+        },
+        {
+            "name": "Sansa Stark",
+            "dateFrom": "05/09/2012",
+            "dateTo": null,
+            "type": "Owner",
+            "ownership": "40.0",
+            "birthDate": "12/04/1982",
+            "nationality": "Westerosi"
+        }
+    ],
+    "relatedCompanies": [
+        {
+            "name": "Iron Bank of Braavos Ltd",
+            "dateFrom": "14/07/2012",
+            "dateTo": "21/06/2019",
+            "type": "Director",
+            "country": "Braavos"
+        },
+        {
+            "name": "The Golden Company Plc",
+            "dateFrom": "07/11/2014",
+            "dateTo": null,
+            "type": "Owner",
+            "ownership": "60.0",
+            "country": "Pentos"
+        }
+    ]
+}

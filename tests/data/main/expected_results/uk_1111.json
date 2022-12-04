@@ -1,0 +1,75 @@
+{
+    "company_number": "1111",
+    "company_name": "Breaking Bad Ltd",
+    "jurisdiction_code": "uk",
+    "company_type": "Ltd",
+    "status": "Active",
+    "official_address": {
+        "street": "87 New Road",
+        "city": "London",
+        "country": "United Kingdom",
+        "postcode": "WC73 1SN"
+    },
+    "officers": [
+        {
+            "first_name": "Hank",
+            "last_name": "Schrader",
+            "date_from": {
+                "year": 1992,
+                "month": 7,
+                "day": 25
+            },
+            "role": "Director",
+            "date_of_birth": {
+                "year": 1960,
+                "month": 4
+            }
+        },
+        {
+            "name": "Los Pollos Hermanos",
+            "date_from": {
+                "year": 1990,
+                "month": 8,
+                "day": 29
+            },
+            "date_to": {
+                "year": 1991,
+                "month": 3,
+                "day": 27
+            },
+            "role": "Secretary"
+        }
+    ],
+    "owners": [
+        {
+            "first_name": "Walter",
+            "last_name": "White",
+            "date_from": {
+                "year": 1985,
+                "month": 12,
+                "day": 20
+            },
+            "ownership_type": "Shareholder",
+            "shares_held": 80.0,
+            "date_of_birth": {
+                "year": 1955,
+                "month": 7
+            }
+        },
+        {
+            "first_name": "Jessie",
+            "last_name": "Pinkman",
+            "date_from": {
+                "year": 1999,
+                "month": 5,
+                "day": 22
+            },
+            "ownership_type": "Shareholder",
+            "shares_held": 20.0,
+            "date_of_birth": {
+                "year": 1992,
+                "month": 11
+            }
+        }
+    ]
+}

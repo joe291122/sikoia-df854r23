@@ -1,0 +1,82 @@
+{
+    "company_number": "6666",
+    "company_name": "Death Note N.V.",
+    "jurisdiction_code": "nl",
+    "date_established": {
+        "year": 1988,
+        "month": 12,
+        "day": 14
+    },
+    "date_dissolved": {
+        "year": 2022,
+        "month": 1,
+        "day": 13
+    },
+    "official_address": {
+        "street": "Leidsekruisstraat 11",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "postcode": "1017 RE"
+    },
+    "officers": [
+        {
+            "name": "Light Yagami",
+            "date_from": {
+                "year": 2015,
+                "month": 11,
+                "day": 14
+            },
+            "role": "Director",
+            "date_of_birth": {
+                "year": 2001,
+                "month": 10,
+                "day": 7
+            },
+            "nationality": "Japanese"
+        },
+        {
+            "name": "Yotsuba Group Inc",
+            "date_from": {
+                "year": 2006,
+                "month": 3,
+                "day": 6
+            },
+            "date_to": {
+                "year": 2009,
+                "month": 12,
+                "day": 24
+            },
+            "role": "Treasurer",
+            "country": "United States"
+        }
+    ],
+    "owners": [
+        {
+            "name": "Misa Amane",
+            "date_from": {
+                "year": 2011,
+                "month": 6,
+                "day": 6
+            },
+            "ownership_type": "Shareholder",
+            "shares_held": 50.0,
+            "date_of_birth": {
+                "year": 1977,
+                "month": 5,
+                "day": 16
+            },
+            "nationality": "United States"
+        },
+        {
+            "name": "Kira & Co",
+            "date_from": {
+                "year": 2006,
+                "month": 9,
+                "day": 12
+            },
+            "ownership_type": "Shareholder",
+            "shares_held": 50.0,
+            "country": "France"
+        }
+    ]
+}
