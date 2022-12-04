@@ -1,5 +1,4 @@
 from fastapi import FastAPI, Path
-# import asyncio
 import httpx
 
 from app.models.input import Input
@@ -92,18 +91,6 @@ def process_request(jurisdiction_code, company_number):
     response = create_response(api_list=api_list, input=input)
     log_response(response)
     return response
-
-# async def request(client):
-#     response = await client.get(URL)
-#     return response.text
-
-
-# async def task():
-#     async with httpx.AsyncClient() as client:
-#         tasks = [request(client) for i in range(100)]
-#         result = await asyncio.gather(*tasks)
-#         print(result)
-
 
 
 @app.get("/v1/company/{jurisdiction_code}/{company_number}", response_model=Company | Input, response_model_exclude_unset=True)
